@@ -4,3 +4,6 @@
 + A user can also zoom in and zoom out on the map and can move the map using the mouse. Map also displays names of the continents as we zoom out and when zoom in it shows names of countries and further zoom in displays the states and cities. It also provides a control layer on the top right corner for the users.       
 + So, the main objective is to represent world population and some volcanoes on a world map providing attractive and very useful interface to the users. 
 
+--- 
+Sample Screenshots:
+    
