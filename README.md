@@ -1,3 +1,5 @@
+<img src ="data/mappic1.png">
+
 # Webmap Mapping World Population
 + This mini project focuses on the population count of several countries of the world. It gives users a GUI of the world map, representing countries with three different colours red, yellow and green based on their population count either overpopulated or moderate population or normal population.       
 + The three different colours representing the countries makes it easier for the users to understand the population condition and makes the map user friendly. It also have markers marking the locations of different volcanoes in the North America region. These markers are also in three different colours red, yellow and green based on the height of the volcanoes. It also pops out the height (in meters) of the volcanoes when we click on the marker thereby providing user friendly and attractive interface with the users.     
