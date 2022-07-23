@@ -1,4 +1,7 @@
 <img src ="data/mappic1.png">
+(Map showing continents, countries and states. The countries are coloured on the basis of population.)    
+---    
+    
 
 # Webmap Mapping World Population
 + This mini project focuses on the population count of several countries of the world. It gives users a GUI of the world map, representing countries with three different colours red, yellow and green based on their population count either overpopulated or moderate population or normal population.       
@@ -7,5 +10,7 @@
 + So, the main objective is to represent world population and some volcanoes on a world map providing attractive and very useful interface to the users. 
 
 --- 
-**Sample Screenshots:**
+**Sample output Screenshots:**       
+<img src ="data/mappic2.png">
+<img src ="data/mappic3.png">
     
