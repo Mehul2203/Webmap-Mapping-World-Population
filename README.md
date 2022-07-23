@@ -5,5 +5,5 @@
 + So, the main objective is to represent world population and some volcanoes on a world map providing attractive and very useful interface to the users. 
 
 --- 
-Sample Screenshots:
+**Sample Screenshots:**
     
